@@ -8,7 +8,7 @@ import { BorderCardDirective } from './border-card.directive';
 import { PokemonTypeColorPipe } from './pokemon-type-color.pipe';
 import { PokemonRoutingModule } from './pokemons-routing.module';
 import { PokemonsService } from './pokemons.service';
-import { PokemonFormComponent } from './pokemon-from.component';
+import { PokemonFormComponent } from './pokemon-form.component';
 import { EditPokemonComponent } from './edit-pokemon.component';
 
 
